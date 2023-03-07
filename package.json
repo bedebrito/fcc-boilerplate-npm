@@ -2,7 +2,7 @@
 	"author": "Beatriz de Brito",
 	"name": "fcc-learn-npm-package-json",
 	"description": "freeCodeCamp Managing Packages with NPM",
-	"keywords": ["freecodecamp, npm, replit"],
+	"keywords": ["freecodecamp", "npm", "replit"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
