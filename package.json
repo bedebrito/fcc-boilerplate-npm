@@ -4,6 +4,7 @@
 	"description": "freeCodeCamp Managing Packages with NPM",
 	"keywords": ["freecodecamp", "npm", "replit"],
 	"license": "MIT",
+	"version": "1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
